@@ -1,0 +1,4 @@
+<?php
+$rep=str_replace('I','い',"きょUはぴIえIちぴIのくみこみかんすUのがくしゅUをしてIます");
+echo str_replace('U','う',$rep);
+?>
