@@ -1,0 +1,5 @@
+<?php
+echo strlen("金子優斗");
+echo " ";
+echo mb_strlen("金子優斗");
+?>
